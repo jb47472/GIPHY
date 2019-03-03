@@ -1,0 +1,35 @@
+#add-giphy {
+    background-color:  rgb(76,175,80);
+    height: 40px;
+    width: 200px;
+    font-weight: 900
+}
+
+.giphy-input {
+    font-weight: 900
+}
+
+.gif {
+    background-color: grey;
+    
+}
+
+#giphy-input {
+    border: 5px, solid black;
+    box-shadow: 5px 10px#888888;
+
+}
+
+#giphy-view {
+    background-color: rgb(76,175,80);
+    height: 75px;
+    
+}
+
+#gifs-appear-here {
+    background-color: rgb(76,175,80);
+}
+
+#giphy-form {
+    
+}
