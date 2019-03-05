@@ -49,6 +49,7 @@ function displayGifs() {
 
     $("#giphy-view").on("click", function (e) {
         console.log(e);
+        $("#gifs-appear-here").empty();
 
 
         // Grabbing and storing the data-animal property value from the button
@@ -122,5 +123,5 @@ displayGifs();
 
 
   
-//unable to empty div when button is pressed for gifs
+
 
