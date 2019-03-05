@@ -118,9 +118,9 @@ function displayGifs() {
 };
 
 
-$(document).on("click", "#giphy-view", displayGifs);
+displayGifs();
 
 
-///have to click button 2 times and prepends 20 gifs...I changed the limit to 5 and it displays 10 gifs but repeats 5 of them.  
+  
 //unable to empty div when button is pressed for gifs
 
